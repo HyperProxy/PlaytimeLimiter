@@ -1,4 +1,4 @@
 name: PlaytimeLimiter
 version: '1.0-SNAPSHOT'
 main: mc.hyperproxy.playtimeLimiter.PlaytimeLimiter
-api-version: '1.21'
+api-version: '1.21.5'
