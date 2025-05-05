@@ -1,4 +1,14 @@
 name: PlaytimeLimiter
 version: '1.0-SNAPSHOT'
 main: mc.hyperproxy.playtimeLimiter.PlaytimeLimiter
-api-version: '1.21'
+api-version: '1.21.5'
+commands:
+  viewtime:
+    description: View your current session playtime information
+    usage: /<command>
+    permission: playtimelimiter.viewtimeinfo
+
+  settime:
+    description: Set the remaining playtime of the selected player
+    usage: /<command> player amount
+    permission: playtimelimiter.settime

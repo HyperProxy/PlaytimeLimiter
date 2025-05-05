@@ -1,3 +1,6 @@
-mc\hyperproxy\playtimeLimiter\PlayerUtil.class
+mc\hyperproxy\playtimeLimiter\PlaytimeLimiter$1.class
 mc\hyperproxy\playtimeLimiter\PlayerTimeInfo.class
+mc\hyperproxy\playtimeLimiter\Commands\SetTime.class
+mc\hyperproxy\playtimeLimiter\PlayerUtil.class
+mc\hyperproxy\playtimeLimiter\Commands\ViewTime.class
 mc\hyperproxy\playtimeLimiter\PlaytimeLimiter.class
