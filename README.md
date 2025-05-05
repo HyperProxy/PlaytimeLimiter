@@ -3,7 +3,7 @@
 
 PlaytimeLimiter is a simple Spigot plugin, made for MC version 1.21.5, written in Java 24, and built and compiled using Maven. 
 
-PlaytimeLimiter uses YAML files specific to each player to track individual playtime. As of snapshot 1.0, there is no implementation of changing playtime values, only core functionality of storing and retreiving player data and plugin config.
+PlaytimeLimiter uses YAML files specific to each player to track individual playtime. As of snapshot 1.0, there is no implementation of changing playtime values, only core functionality of storing and retreiving player data and plugin config. -- **CHECK THE RELEASES PAGE!** Snapshots have listed functionalities, updated multiple times a week!
 
 
 ## Deployment
